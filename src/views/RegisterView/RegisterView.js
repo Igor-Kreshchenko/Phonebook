@@ -54,6 +54,7 @@ const RegisterView = () => {
           value={name}
           onChange={handleChange}
           margin="dense"
+          autoComplete="true"
           fullWidth
         />
         <TextField
@@ -64,6 +65,7 @@ const RegisterView = () => {
           value={email}
           onChange={handleChange}
           margin="dense"
+          autoComplete="true"
           fullWidth
         />
         <TextField
