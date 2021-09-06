@@ -14,15 +14,15 @@ Individual academic project ✔
 - CSS
 - Material-ui
 
-### Preview
+### Preview:
 
 ![](./src/images/demo.png)
 
-### Test account
+### Test account:
 
 - **Email** : johndoe@gmail.com
 - **Password** : John1987
 
-### Visit the app page
+### Visit the app page:
 
 [Phonebook](https://ik-phonebook-app.netlify.app/)
